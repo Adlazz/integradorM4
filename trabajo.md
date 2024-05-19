@@ -1,4 +1,4 @@
-# Trabajo Integrador
+# Trabajo Integrador del Modulo 4 - BIG DATA
 
 **Alumno**: Adrian Lazzarini  
 **Curso**: DATA 09 PT  
@@ -43,19 +43,19 @@ hbase shell  # para entrar a la terminal de HBase
 ## Nota
 Busqué dfs.blocksize y dfs.replication en http://<IP_Anfitrion>:9870/conf para encontrar los valores de tamaño de bloque y factor de réplica respectivamente, entre otras configuraciones del sistema Hadoop.
 
-![Texto alternativo](Screenshot_1.png)
+![Texto alternativo](screenshots/Screenshot_1.png)
 
-![Texto alternativo](Screenshot_2.png)
+![Texto alternativo](screenshots/Screenshot_2.png)
 
-![Texto alternativo](Screenshot_3.png)
+![Texto alternativo](screenshots/Screenshot_3.png)
 
 ## Haciendo consultas de datos cargados en Hive:
 
-![Texto alternativo](Screenshot_4.png)
+![Texto alternativo](screenshots/Screenshot_4.png)
 
-![Texto alternativo](Screenshot_5.png)
+![Texto alternativo](screenshots/Screenshot_5.png)
 
-![Texto alternativo](Screenshot_6.png)
+![Texto alternativo](screenshots/Screenshot_6.png)
 
 
 
